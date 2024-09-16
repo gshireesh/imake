@@ -1,4 +1,4 @@
-module shireesh.com/tools/imake
+module github.com/gshireesh/imake
 
 go 1.22.4
 
